@@ -3,6 +3,9 @@ This repo is for a Spotify Playlist Creator and Manager called Collabify.
 It's a simple app that allows users create collaborative playlists, add and remove songs and listen their playlists.
 There are two parts to it, the auth-server, and the client.
 
+## Collaborators
+Ralf Pinheiro, John Connoly, Sarah Madro
+
 ## Getting Statrted
 
 ### 1) Create an App
